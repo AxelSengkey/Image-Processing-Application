@@ -1,5 +1,5 @@
 # Image-Processing-Application
-Image Processing Application - created using Octave
+Image Processing Application - Created using Octave
  
 A simple application for image editing
 
